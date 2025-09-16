@@ -1,3 +1,5 @@
+#O discord possui uma brecha na qual é possível enviar mensagens com emojis personalizados mesmo sem ter o nitro, basta somente encaminhar a mensagem com o emoji para a pessoa. Este código resolve justamente este problema
+
 mensagem = """como assim? :oi:""" #mensagem de exemplo
 
 nitro = False
